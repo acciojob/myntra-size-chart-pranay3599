@@ -1,2 +1,30 @@
 
 /* Your CSS Code here. */
+
+/* Your CSS Code here. */
+table,td,th
+{
+	border: 2px solid black;
+	border-collapse: collapse;
+	text-align: left;
+}
+thead
+{
+	background-color: #c65353;
+}
+#r1
+{
+	background-color: #d98c8c;
+	color: white;
+}
+#r2
+{
+	background-color: #ecc6c6;
+}
+#r3
+{
+	background-color: lightgray;
+}
+th{
+	font-weight:100;
+}
